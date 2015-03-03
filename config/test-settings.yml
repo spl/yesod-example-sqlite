@@ -1,0 +1,2 @@
+database:
+  database: yesod-example-sqlite_test.sqlite3
